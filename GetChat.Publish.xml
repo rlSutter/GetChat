@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\cloudsvc5.certegrity.com\Inetpub\olk" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="02/25/2014 12:34:58" />
+    <file relUrl="Account/Register.aspx" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="Site.Master" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="bin/Newtonsoft.Json.pdb" publishTime="01/23/2012 20:26:14" />
+    <file relUrl="Global.asax" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="bin/GetChat.dll" publishTime="05/28/2015 11:13:17" />
+    <file relUrl="packages.config" publishTime="12/18/2013 11:17:22" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="01/23/2012 20:26:14" />
+    <file relUrl="GetChat.ashx" publishTime="02/05/2013 14:45:10" />
+    <file relUrl="Account/Web.config" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="Account/Login.aspx" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="Styles/Site.css" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="bin/log4net.xml" publishTime="12/18/2013 11:17:18" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="01/23/2012 20:26:14" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="Default.aspx" publishTime="02/15/2013 09:57:46" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/05/2013 14:41:43" />
+    <file relUrl="bin/log4net.dll" publishTime="12/18/2013 11:17:18" />
+    <file relUrl="bin/GetChat.pdb" publishTime="05/28/2015 11:13:17" />
+  </publishProfile>
+</publishData>
